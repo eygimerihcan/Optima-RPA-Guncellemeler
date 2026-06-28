@@ -1,13 +1,16 @@
 {
-  "aktif": true,
-  "tip": "guncelleme",
-  "baslik": "📢 v4.4 Güncellemesi Yayınlandı",
-  "mesaj": "Bu sürümde masraf girişi için UYAP veri güncelleme tetikleme eklendi. Detaylar için UYAP MASRAF GİRİŞİ sekmesini kontrol ediniz."
-}
-
-{
-  "aktif": true,
-  "tip": "uyari",
-  "baslik": "📢 Haziran'da açılan takipler",
-  "mesaj": "Optima kaynaklı bir sorun ile Haziran Ayı içerisinde açılan takipler derdest raporuna yansımamaktadır. Optima tarafından hatanın giderilmesi beklenmektedir."
+  "duyurular": [
+    {
+      "aktif": true,
+      "tip": "guncelleme",
+      "baslik": "📢 v4.4 Güncellemesi Yayınlandı",
+      "mesaj": "Bu sürümde masraf girişi için UYAP veri güncelleme tetikleme eklendi. Detaylar için UYAP MASRAF GİRİŞİ sekmesini kontrol ediniz."
+    },
+    {
+      "aktif": true,
+      "tip": "uyari",
+      "baslik": "📢 Haziran'da açılan takipler",
+      "mesaj": "Optima kaynaklı bir sorun ile Haziran Ayı içerisinde açılan takipler derdest raporuna yansımamaktadır. Optima tarafından hatanın giderilmesi beklenmektedir."
+    }
+  ]
 }
