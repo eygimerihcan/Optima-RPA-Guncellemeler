@@ -10,7 +10,7 @@
       "aktif": true,
       "tip": "uyari",
       "baslik": "📢 Haziran'da açılan takipler",
-      "mesaj": "Optima kaynaklı bir sorun ile Haziran Ayı içerisinde açılan takipler derdest raporuna yansımamaktadır. Optima tarafından hatanın giderilmesi beklenmektedir."
+      "mesaj": "Optima kaynaklı bir sorun ile Haziran Ayı içerisinde açılan takipler derdest raporuna yansımamaktadır. Optima tarafından sorun giderildiğinde rapora Haziran talepleri de dahil edilecektir."
     }
   ]
 }
