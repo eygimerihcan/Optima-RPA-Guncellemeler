@@ -3,8 +3,8 @@
     {
       "aktif": true,
       "tip": "guncelleme",
-      "baslik": "📢 v4.5 Güncellemesi Yayınlandı",
-      "mesaj": "Bu sürümde masraf girişi için UYAP veri güncelleme tetikleme eklendi. Detaylar için UYAP MASRAF GİRİŞİ sekmesini kontrol ediniz."
+      "baslik": "📢 v4.6 Güncellemesi Yayınlandı",
+      "mesaj": "Bu sürümde masraf girişi için UYAP veri güncelleme tetikleme eklendi. Detaylar için UYAP MASRAF GİRİŞİ sekmesini kontrol ediniz. // Trayıcı hatası:debugger sorunu giderildi."
     },
     {
       "aktif": true,
