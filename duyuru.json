@@ -2,15 +2,15 @@
   "duyurular": [
     {
       "aktif": true,
-      "tip": "guncelleme",
-      "baslik": "📢 v4.6 Güncellemesi Yayınlandı",
-      "mesaj": "Bu sürümde masraf girişi için UYAP veri güncelleme tetikleme eklendi. Detaylar için UYAP MASRAF GİRİŞİ sekmesini kontrol ediniz. // Trayıcı hatası:debugger sorunu giderildi."
+      "tip": "uyari",
+      "baslik": "📢 Optima kaynaklı hata",
+      "mesaj": "Optima'da sistem hatası mevcuttur. Çekilen veriler Optima'dan çekildiğinden anlık hata alınabilmektedir. Optima'daki sorun giderildiğinde program çalışmaya devam edecektir."
     },
     {
       "aktif": true,
       "tip": "uyari",
-      "baslik": "📢 Haziran'da açılan takipler",
-      "mesaj": "Optima kaynaklı bir sorun ile Haziran Ayı içerisinde açılan takipler derdest raporuna yansımamaktadır. Optima tarafından sorun giderildiğinde rapora Haziran talepleri de dahil edilecektir."
+      "baslik": "📢 Derdest raporu hk.",
+      "mesaj": "Optima kaynaklı bir sorun ile derdest raporunda eksik dosya listesi çekilmektedir. İhtar numaralarını boş alana alt alta yapıştırarak derdest bilgilerinin raporunu çekebilirsiniz."
     }
   ]
 }
