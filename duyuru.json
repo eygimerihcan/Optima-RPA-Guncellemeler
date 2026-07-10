@@ -11,6 +11,12 @@
       "tip": "uyari",
       "baslik": "📢 Derdest raporu hk.",
       "mesaj": "Optima kaynaklı bir sorun ile derdest raporunda eksik dosya listesi çekilmektedir. İhtar numaralarını boş alana alt alta yapıştırarak derdest bilgilerinin raporunu çekebilirsiniz."
+    },
+    {
+      "aktif": true,
+      "tip": "uyari",
+      "baslik": "📢 Dosya Bilgisi ile Ara hk.",
+      "mesaj": "Artık icra dosya no, müşteri no, TCKN/VKN bilgileri ile derdest raporu alınabilir. Tahsilat raporu için bu alandan aldığınız raporda yer alan ihtarname numaralarını kullanarak manuel ekleme alanıyla tahsilat raporu çekebilirsiniz."
     }
   ]
 }
